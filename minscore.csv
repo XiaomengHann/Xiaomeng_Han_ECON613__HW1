@@ -1,0 +1,2301 @@
+"","schoolcode","program","lowestscore"
+"1",9010102,"Accounting",229
+"2",9010301,"Accounting",210
+"3",9021002,"Accounting",226
+"4",9070501,"Accounting",209
+"5",9070601,"Accounting",223
+"6",9071001,"Accounting",223
+"7",9090401,"Accounting",192
+"8",9030401,"Agric. Mechanics",218
+"9",9070601,"Agric. Mechanics",208
+"10",10101,"Agriculture",288
+"11",10103,"Agriculture",316
+"12",10105,"Agriculture",260
+"13",10110,"Agriculture",343
+"14",10111,"Agriculture",371
+"15",10117,"Agriculture",330
+"16",10118,"Agriculture",273
+"17",10121,"Agriculture",335
+"18",10203,"Agriculture",252
+"19",10204,"Agriculture",209
+"20",10301,"Agriculture",278
+"21",10302,"Agriculture",246
+"22",10401,"Agriculture",287
+"23",10402,"Agriculture",215
+"24",10403,"Agriculture",207
+"25",10501,"Agriculture",314
+"26",10502,"Agriculture",279
+"27",10503,"Agriculture",231
+"28",10504,"Agriculture",247
+"29",20104,"Agriculture",336
+"30",20105,"Agriculture",286
+"31",20106,"Agriculture",270
+"32",20202,"Agriculture",211
+"33",20203,"Agriculture",215
+"34",20302,"Agriculture",292
+"35",20303,"Agriculture",321
+"36",20304,"Agriculture",266
+"37",20305,"Agriculture",205
+"38",20401,"Agriculture",290
+"39",20402,"Agriculture",343
+"40",20403,"Agriculture",295
+"41",20407,"Agriculture",229
+"42",20408,"Agriculture",210
+"43",20409,"Agriculture",211
+"44",20410,"Agriculture",228
+"45",20501,"Agriculture",278
+"46",20502,"Agriculture",247
+"47",20503,"Agriculture",239
+"48",20601,"Agriculture",288
+"49",20602,"Agriculture",266
+"50",20604,"Agriculture",208
+"51",20606,"Agriculture",207
+"52",20607,"Agriculture",202
+"53",20608,"Agriculture",208
+"54",20701,"Agriculture",216
+"55",20703,"Agriculture",219
+"56",20704,"Agriculture",228
+"57",20801,"Agriculture",209
+"58",20805,"Agriculture",211
+"59",20901,"Agriculture",216
+"60",20902,"Agriculture",205
+"61",21003,"Agriculture",372
+"62",21004,"Agriculture",245
+"63",21006,"Agriculture",262
+"64",21008,"Agriculture",221
+"65",21101,"Agriculture",243
+"66",21104,"Agriculture",216
+"67",21201,"Agriculture",240
+"68",21202,"Agriculture",213
+"69",21203,"Agriculture",203
+"70",21301,"Agriculture",209
+"71",21303,"Agriculture",312
+"72",21307,"Agriculture",216
+"73",21402,"Agriculture",205
+"74",21502,"Agriculture",240
+"75",21503,"Agriculture",212
+"76",21504,"Agriculture",210
+"77",21505,"Agriculture",199
+"78",21601,"Agriculture",216
+"79",30101,"Agriculture",356
+"80",30105,"Agriculture",290
+"81",30108,"Agriculture",202
+"82",30202,"Agriculture",213
+"83",30203,"Agriculture",216
+"84",30301,"Agriculture",332
+"85",30303,"Agriculture",246
+"86",30401,"Agriculture",335
+"87",30402,"Agriculture",220
+"88",30403,"Agriculture",219
+"89",30503,"Agriculture",203
+"90",30504,"Agriculture",267
+"91",30601,"Agriculture",330
+"92",30602,"Agriculture",233
+"93",30603,"Agriculture",238
+"94",30701,"Agriculture",260
+"95",30703,"Agriculture",206
+"96",30802,"Agriculture",228
+"97",30902,"Agriculture",269
+"98",30904,"Agriculture",207
+"99",30905,"Agriculture",320
+"100",31001,"Agriculture",291
+"101",31002,"Agriculture",251
+"102",31003,"Agriculture",259
+"103",31101,"Agriculture",267
+"104",31102,"Agriculture",207
+"105",31201,"Agriculture",288
+"106",31202,"Agriculture",245
+"107",31204,"Agriculture",216
+"108",31206,"Agriculture",212
+"109",40101,"Agriculture",289
+"110",40102,"Agriculture",309
+"111",40106,"Agriculture",279
+"112",40109,"Agriculture",223
+"113",40111,"Agriculture",241
+"114",40201,"Agriculture",288
+"115",40202,"Agriculture",220
+"116",40301,"Agriculture",241
+"117",40302,"Agriculture",246
+"118",40303,"Agriculture",203
+"119",40304,"Agriculture",207
+"120",40401,"Agriculture",223
+"121",40402,"Agriculture",210
+"122",40501,"Agriculture",262
+"123",40502,"Agriculture",234
+"124",40503,"Agriculture",211
+"125",40601,"Agriculture",263
+"126",40602,"Agriculture",211
+"127",40603,"Agriculture",212
+"128",40701,"Agriculture",266
+"129",40702,"Agriculture",235
+"130",40801,"Agriculture",214
+"131",40802,"Agriculture",215
+"132",40902,"Agriculture",249
+"133",40903,"Agriculture",271
+"134",40905,"Agriculture",206
+"135",40906,"Agriculture",207
+"136",41001,"Agriculture",208
+"137",41002,"Agriculture",214
+"138",41101,"Agriculture",224
+"139",50104,"Agriculture",345
+"140",50105,"Agriculture",348
+"141",50107,"Agriculture",361
+"142",50111,"Agriculture",319
+"143",50113,"Agriculture",327
+"144",50119,"Agriculture",241
+"145",50201,"Agriculture",346
+"146",50202,"Agriculture",314
+"147",50203,"Agriculture",324
+"148",50204,"Agriculture",272
+"149",50205,"Agriculture",263
+"150",50207,"Agriculture",223
+"151",50301,"Agriculture",320
+"152",50303,"Agriculture",243
+"153",50403,"Agriculture",206
+"154",50501,"Agriculture",261
+"155",50502,"Agriculture",324
+"156",50503,"Agriculture",273
+"157",50601,"Agriculture",281
+"158",50604,"Agriculture",222
+"159",50606,"Agriculture",259
+"160",50702,"Agriculture",263
+"161",50704,"Agriculture",287
+"162",50705,"Agriculture",218
+"163",50801,"Agriculture",266
+"164",50803,"Agriculture",238
+"165",50804,"Agriculture",214
+"166",50901,"Agriculture",211
+"167",50902,"Agriculture",217
+"168",51002,"Agriculture",331
+"169",51004,"Agriculture",219
+"170",51101,"Agriculture",208
+"171",51103,"Agriculture",213
+"172",51202,"Agriculture",293
+"173",51203,"Agriculture",263
+"174",51205,"Agriculture",230
+"175",51206,"Agriculture",211
+"176",51302,"Agriculture",233
+"177",51401,"Agriculture",271
+"178",51402,"Agriculture",216
+"179",51501,"Agriculture",231
+"180",51602,"Agriculture",308
+"181",51603,"Agriculture",287
+"182",51604,"Agriculture",263
+"183",51605,"Agriculture",214
+"184",51606,"Agriculture",222
+"185",51701,"Agriculture",289
+"186",51702,"Agriculture",213
+"187",51802,"Agriculture",291
+"188",51804,"Agriculture",236
+"189",60102,"Agriculture",219
+"190",60103,"Agriculture",243
+"191",60104,"Agriculture",338
+"192",60105,"Agriculture",202
+"193",60106,"Agriculture",362
+"194",60201,"Agriculture",302
+"195",60203,"Agriculture",219
+"196",60204,"Agriculture",208
+"197",60205,"Agriculture",222
+"198",60206,"Agriculture",249
+"199",60301,"Agriculture",297
+"200",60302,"Agriculture",252
+"201",60303,"Agriculture",271
+"202",60304,"Agriculture",221
+"203",60402,"Agriculture",205
+"204",60404,"Agriculture",230
+"205",60501,"Agriculture",272
+"206",60504,"Agriculture",215
+"207",60601,"Agriculture",292
+"208",60602,"Agriculture",212
+"209",60603,"Agriculture",221
+"210",60604,"Agriculture",226
+"211",60605,"Agriculture",222
+"212",60702,"Agriculture",256
+"213",60704,"Agriculture",209
+"214",60705,"Agriculture",214
+"215",60801,"Agriculture",226
+"216",60802,"Agriculture",215
+"217",60902,"Agriculture",218
+"218",61001,"Agriculture",286
+"219",61002,"Agriculture",227
+"220",61003,"Agriculture",249
+"221",61004,"Agriculture",218
+"222",61101,"Agriculture",219
+"223",61102,"Agriculture",236
+"224",61202,"Agriculture",243
+"225",61203,"Agriculture",234
+"226",61204,"Agriculture",220
+"227",61303,"Agriculture",205
+"228",70102,"Agriculture",301
+"229",70104,"Agriculture",277
+"230",70105,"Agriculture",209
+"231",70106,"Agriculture",213
+"232",70108,"Agriculture",237
+"233",70109,"Agriculture",219
+"234",70110,"Agriculture",214
+"235",70111,"Agriculture",223
+"236",70112,"Agriculture",228
+"237",70113,"Agriculture",221
+"238",70114,"Agriculture",269
+"239",70119,"Agriculture",214
+"240",70201,"Agriculture",212
+"241",70202,"Agriculture",220
+"242",70203,"Agriculture",204
+"243",70302,"Agriculture",224
+"244",70303,"Agriculture",214
+"245",70401,"Agriculture",206
+"246",70402,"Agriculture",224
+"247",70403,"Agriculture",221
+"248",70501,"Agriculture",243
+"249",70502,"Agriculture",261
+"250",70505,"Agriculture",228
+"251",70506,"Agriculture",200
+"252",70601,"Agriculture",221
+"253",70602,"Agriculture",292
+"254",70603,"Agriculture",226
+"255",70604,"Agriculture",210
+"256",70605,"Agriculture",214
+"257",70606,"Agriculture",221
+"258",70607,"Agriculture",215
+"259",70703,"Agriculture",214
+"260",70704,"Agriculture",234
+"261",70705,"Agriculture",200
+"262",70802,"Agriculture",209
+"263",70803,"Agriculture",218
+"264",70805,"Agriculture",227
+"265",70902,"Agriculture",211
+"266",71001,"Agriculture",214
+"267",71002,"Agriculture",227
+"268",71004,"Agriculture",211
+"269",71008,"Agriculture",217
+"270",71009,"Agriculture",228
+"271",71010,"Agriculture",213
+"272",71104,"Agriculture",216
+"273",71105,"Agriculture",224
+"274",71201,"Agriculture",241
+"275",71202,"Agriculture",220
+"276",80101,"Agriculture",290
+"277",80102,"Agriculture",276
+"278",80105,"Agriculture",256
+"279",80106,"Agriculture",231
+"280",80107,"Agriculture",208
+"281",80108,"Agriculture",241
+"282",80201,"Agriculture",226
+"283",80202,"Agriculture",206
+"284",80301,"Agriculture",239
+"285",80302,"Agriculture",231
+"286",80401,"Agriculture",218
+"287",80402,"Agriculture",209
+"288",80501,"Agriculture",237
+"289",80502,"Agriculture",210
+"290",80602,"Agriculture",200
+"291",80701,"Agriculture",230
+"292",80702,"Agriculture",188
+"293",80802,"Agriculture",209
+"294",80901,"Agriculture",211
+"295",80902,"Agriculture",197
+"296",81001,"Agriculture",208
+"297",81101,"Agriculture",204
+"298",81102,"Agriculture",208
+"299",81202,"Agriculture",209
+"300",81302,"Agriculture",199
+"301",90101,"Agriculture",263
+"302",90102,"Agriculture",207
+"303",90103,"Agriculture",217
+"304",90202,"Agriculture",222
+"305",90302,"Agriculture",200
+"306",90303,"Agriculture",220
+"307",90403,"Agriculture",284
+"308",90404,"Agriculture",201
+"309",90405,"Agriculture",239
+"310",90501,"Agriculture",271
+"311",90502,"Agriculture",201
+"312",90503,"Agriculture",205
+"313",90504,"Agriculture",199
+"314",90506,"Agriculture",204
+"315",90602,"Agriculture",281
+"316",100102,"Agriculture",273
+"317",100106,"Agriculture",223
+"318",100203,"Agriculture",225
+"319",100301,"Agriculture",201
+"320",100303,"Agriculture",207
+"321",100402,"Agriculture",225
+"322",100501,"Agriculture",235
+"323",100502,"Agriculture",191
+"324",9010101,"Auto Body Works",298
+"325",9050101,"Auto Body Works",298
+"326",9010201,"Block Laying & Concreting",248
+"327",9010301,"Block Laying & Concreting",206
+"328",9020101,"Block Laying & Concreting",215
+"329",9020901,"Block Laying & Concreting",262
+"330",9021001,"Block Laying & Concreting",201
+"331",9021101,"Block Laying & Concreting",211
+"332",9021301,"Block Laying & Concreting",219
+"333",9030101,"Block Laying & Concreting",213
+"334",9030401,"Block Laying & Concreting",208
+"335",9040101,"Block Laying & Concreting",224
+"336",9040301,"Block Laying & Concreting",214
+"337",9050101,"Block Laying & Concreting",244
+"338",9051801,"Block Laying & Concreting",240
+"339",9070501,"Block Laying & Concreting",222
+"340",9070601,"Block Laying & Concreting",197
+"341",9070901,"Block Laying & Concreting",247
+"342",9071001,"Block Laying & Concreting",240
+"343",9080103,"Block Laying & Concreting",230
+"344",9090101,"Block Laying & Concreting",205
+"345",9090401,"Block Laying & Concreting",213
+"346",9100101,"Block Laying & Concreting",185
+"347",10101,"Business",305
+"348",10103,"Business",341
+"349",10105,"Business",331
+"350",10106,"Business",328
+"351",10107,"Business",292
+"352",10108,"Business",291
+"353",10111,"Business",382
+"354",10112,"Business",359
+"355",10114,"Business",329
+"356",10116,"Business",205
+"357",10117,"Business",349
+"358",10118,"Business",291
+"359",10119,"Business",259
+"360",10121,"Business",363
+"361",10142,"Business",260
+"362",10201,"Business",356
+"363",10205,"Business",278
+"364",10210,"Business",230
+"365",10213,"Business",300
+"366",10302,"Business",285
+"367",10401,"Business",335
+"368",10402,"Business",200
+"369",10403,"Business",246
+"370",10501,"Business",339
+"371",10502,"Business",303
+"372",10503,"Business",265
+"373",20102,"Business",376
+"374",20103,"Business",345
+"375",20104,"Business",359
+"376",20105,"Business",291
+"377",20106,"Business",284
+"378",20201,"Business",283
+"379",20202,"Business",228
+"380",20204,"Business",214
+"381",20301,"Business",396
+"382",20302,"Business",297
+"383",20303,"Business",333
+"384",20401,"Business",302
+"385",20402,"Business",372
+"386",20403,"Business",299
+"387",20406,"Business",246
+"388",20410,"Business",207
+"389",20501,"Business",306
+"390",20601,"Business",297
+"391",20602,"Business",267
+"392",20603,"Business",252
+"393",20606,"Business",206
+"394",20607,"Business",194
+"395",20608,"Business",206
+"396",20703,"Business",220
+"397",20704,"Business",216
+"398",20801,"Business",197
+"399",20803,"Business",283
+"400",20804,"Business",202
+"401",20805,"Business",215
+"402",20901,"Business",214
+"403",21001,"Business",270
+"404",21002,"Business",306
+"405",21003,"Business",377
+"406",21004,"Business",266
+"407",21005,"Business",237
+"408",21006,"Business",249
+"409",21007,"Business",217
+"410",21009,"Business",226
+"411",21010,"Business",215
+"412",21101,"Business",252
+"413",21102,"Business",298
+"414",21104,"Business",208
+"415",21201,"Business",213
+"416",21202,"Business",215
+"417",21301,"Business",228
+"418",21302,"Business",341
+"419",21303,"Business",316
+"420",21305,"Business",206
+"421",21306,"Business",226
+"422",21401,"Business",255
+"423",21402,"Business",207
+"424",21501,"Business",350
+"425",21502,"Business",271
+"426",21503,"Business",199
+"427",21504,"Business",207
+"428",21601,"Business",213
+"429",30101,"Business",378
+"430",30102,"Business",369
+"431",30103,"Business",412
+"432",30105,"Business",317
+"433",30106,"Business",368
+"434",30107,"Business",424
+"435",30108,"Business",210
+"436",30109,"Business",262
+"437",30110,"Business",202
+"438",30201,"Business",269
+"439",30202,"Business",215
+"440",30203,"Business",223
+"441",30301,"Business",378
+"442",30302,"Business",210
+"443",30303,"Business",253
+"444",30304,"Business",280
+"445",30305,"Business",206
+"446",30401,"Business",353
+"447",30402,"Business",207
+"448",30403,"Business",227
+"449",30501,"Business",335
+"450",30502,"Business",278
+"451",30503,"Business",240
+"452",30504,"Business",242
+"453",30601,"Business",351
+"454",30602,"Business",276
+"455",30603,"Business",248
+"456",30701,"Business",241
+"457",30702,"Business",236
+"458",30703,"Business",209
+"459",30801,"Business",309
+"460",30802,"Business",199
+"461",30902,"Business",306
+"462",30903,"Business",286
+"463",30904,"Business",217
+"464",30905,"Business",335
+"465",31001,"Business",294
+"466",31002,"Business",248
+"467",31003,"Business",242
+"468",31101,"Business",234
+"469",31102,"Business",208
+"470",31201,"Business",283
+"471",31202,"Business",267
+"472",31203,"Business",208
+"473",31204,"Business",219
+"474",31205,"Business",214
+"475",31206,"Business",214
+"476",40101,"Business",273
+"477",40102,"Business",323
+"478",40103,"Business",377
+"479",40105,"Business",342
+"480",40106,"Business",295
+"481",40107,"Business",321
+"482",40110,"Business",227
+"483",40111,"Business",257
+"484",40112,"Business",225
+"485",40201,"Business",287
+"486",40202,"Business",241
+"487",40301,"Business",237
+"488",40302,"Business",212
+"489",40304,"Business",204
+"490",40401,"Business",222
+"491",40402,"Business",212
+"492",40501,"Business",245
+"493",40502,"Business",197
+"494",40601,"Business",254
+"495",40603,"Business",208
+"496",40604,"Business",226
+"497",40701,"Business",258
+"498",40702,"Business",239
+"499",40801,"Business",202
+"500",40802,"Business",206
+"501",40901,"Business",223
+"502",40902,"Business",256
+"503",40903,"Business",274
+"504",40904,"Business",309
+"505",40905,"Business",199
+"506",40906,"Business",211
+"507",41002,"Business",217
+"508",41102,"Business",200
+"509",50101,"Business",340
+"510",50102,"Business",389
+"511",50104,"Business",340
+"512",50105,"Business",362
+"513",50106,"Business",328
+"514",50107,"Business",369
+"515",50108,"Business",374
+"516",50109,"Business",306
+"517",50110,"Business",387
+"518",50111,"Business",335
+"519",50112,"Business",302
+"520",50113,"Business",348
+"521",50114,"Business",310
+"522",50115,"Business",302
+"523",50119,"Business",278
+"524",50139,"Business",207
+"525",50201,"Business",352
+"526",50202,"Business",314
+"527",50203,"Business",317
+"528",50204,"Business",293
+"529",50205,"Business",242
+"530",50206,"Business",212
+"531",50207,"Business",217
+"532",50301,"Business",333
+"533",50302,"Business",264
+"534",50304,"Business",212
+"535",50307,"Business",276
+"536",50401,"Business",241
+"537",50402,"Business",214
+"538",50403,"Business",219
+"539",50501,"Business",211
+"540",50502,"Business",348
+"541",50504,"Business",253
+"542",50601,"Business",273
+"543",50602,"Business",290
+"544",50603,"Business",248
+"545",50604,"Business",222
+"546",50605,"Business",289
+"547",50701,"Business",250
+"548",50702,"Business",242
+"549",50703,"Business",212
+"550",50704,"Business",276
+"551",50705,"Business",235
+"552",50707,"Business",219
+"553",50801,"Business",286
+"554",50802,"Business",250
+"555",50804,"Business",211
+"556",50902,"Business",224
+"557",51001,"Business",267
+"558",51002,"Business",335
+"559",51003,"Business",220
+"560",51102,"Business",229
+"561",51201,"Business",240
+"562",51202,"Business",302
+"563",51203,"Business",236
+"564",51204,"Business",219
+"565",51206,"Business",221
+"566",51301,"Business",226
+"567",51302,"Business",241
+"568",51401,"Business",250
+"569",51601,"Business",285
+"570",51602,"Business",280
+"571",51603,"Business",228
+"572",51701,"Business",334
+"573",51702,"Business",222
+"574",51801,"Business",287
+"575",51802,"Business",287
+"576",51803,"Business",216
+"577",51804,"Business",217
+"578",60101,"Business",282
+"579",60102,"Business",215
+"580",60104,"Business",332
+"581",60105,"Business",244
+"582",60106,"Business",363
+"583",60107,"Business",303
+"584",60201,"Business",295
+"585",60202,"Business",216
+"586",60203,"Business",251
+"587",60204,"Business",218
+"588",60205,"Business",222
+"589",60206,"Business",225
+"590",60301,"Business",307
+"591",60304,"Business",215
+"592",60402,"Business",207
+"593",60403,"Business",207
+"594",60404,"Business",213
+"595",60501,"Business",275
+"596",60502,"Business",221
+"597",60503,"Business",217
+"598",60505,"Business",212
+"599",60601,"Business",257
+"600",60602,"Business",219
+"601",60604,"Business",220
+"602",60701,"Business",286
+"603",60702,"Business",222
+"604",60704,"Business",206
+"605",60801,"Business",234
+"606",60802,"Business",202
+"607",60901,"Business",212
+"608",60902,"Business",219
+"609",61001,"Business",261
+"610",61003,"Business",231
+"611",61004,"Business",222
+"612",61005,"Business",228
+"613",61101,"Business",220
+"614",61201,"Business",341
+"615",61202,"Business",251
+"616",61203,"Business",212
+"617",61301,"Business",207
+"618",61303,"Business",221
+"619",70101,"Business",346
+"620",70102,"Business",352
+"621",70103,"Business",238
+"622",70104,"Business",272
+"623",70105,"Business",207
+"624",70106,"Business",288
+"625",70108,"Business",210
+"626",70109,"Business",209
+"627",70110,"Business",230
+"628",70112,"Business",214
+"629",70113,"Business",209
+"630",70114,"Business",243
+"631",70119,"Business",226
+"632",70201,"Business",207
+"633",70202,"Business",213
+"634",70203,"Business",204
+"635",70204,"Business",207
+"636",70301,"Business",204
+"637",70302,"Business",228
+"638",70401,"Business",231
+"639",70402,"Business",211
+"640",70403,"Business",215
+"641",70501,"Business",256
+"642",70502,"Business",322
+"643",70503,"Business",205
+"644",70504,"Business",278
+"645",70505,"Business",198
+"646",70506,"Business",213
+"647",70507,"Business",217
+"648",70508,"Business",221
+"649",70509,"Business",215
+"650",70601,"Business",320
+"651",70602,"Business",337
+"652",70603,"Business",252
+"653",70604,"Business",240
+"654",70605,"Business",222
+"655",70608,"Business",221
+"656",70701,"Business",238
+"657",70702,"Business",213
+"658",70703,"Business",249
+"659",70704,"Business",228
+"660",70705,"Business",211
+"661",70804,"Business",217
+"662",70805,"Business",209
+"663",70806,"Business",262
+"664",70901,"Business",290
+"665",70902,"Business",213
+"666",71001,"Business",196
+"667",71003,"Business",223
+"668",71005,"Business",274
+"669",71006,"Business",257
+"670",71007,"Business",240
+"671",71009,"Business",225
+"672",71010,"Business",232
+"673",71101,"Business",230
+"674",71102,"Business",214
+"675",71103,"Business",208
+"676",71104,"Business",215
+"677",71201,"Business",240
+"678",71202,"Business",225
+"679",80101,"Business",308
+"680",80102,"Business",286
+"681",80103,"Business",263
+"682",80104,"Business",269
+"683",80105,"Business",247
+"684",80109,"Business",200
+"685",80110,"Business",209
+"686",80201,"Business",198
+"687",80301,"Business",224
+"688",80302,"Business",204
+"689",80303,"Business",203
+"690",80401,"Business",197
+"691",80402,"Business",212
+"692",80501,"Business",198
+"693",80503,"Business",205
+"694",80701,"Business",203
+"695",80801,"Business",231
+"696",81001,"Business",208
+"697",81201,"Business",204
+"698",81301,"Business",209
+"699",81302,"Business",201
+"700",90101,"Business",247
+"701",90103,"Business",209
+"702",90202,"Business",199
+"703",90303,"Business",246
+"704",90401,"Business",258
+"705",90403,"Business",287
+"706",90501,"Business",282
+"707",90503,"Business",208
+"708",90506,"Business",201
+"709",100102,"Business",283
+"710",100105,"Business",251
+"711",100106,"Business",238
+"712",100201,"Business",288
+"713",100202,"Business",230
+"714",100204,"Business",204
+"715",100302,"Business",264
+"716",100304,"Business",225
+"717",100401,"Business",259
+"718",100503,"Business",262
+"719",9010102,"Carpentry & Joinery",216
+"720",9010201,"Carpentry & Joinery",218
+"721",9010301,"Carpentry & Joinery",227
+"722",9020101,"Carpentry & Joinery",239
+"723",9021001,"Carpentry & Joinery",221
+"724",9021301,"Carpentry & Joinery",236
+"725",9030101,"Carpentry & Joinery",219
+"726",9030401,"Carpentry & Joinery",235
+"727",9040301,"Carpentry & Joinery",232
+"728",9050101,"Carpentry & Joinery",227
+"729",9051801,"Carpentry & Joinery",213
+"730",9070501,"Carpentry & Joinery",236
+"731",9070601,"Carpentry & Joinery",210
+"732",9070901,"Carpentry & Joinery",221
+"733",9090101,"Carpentry & Joinery",211
+"734",9090401,"Carpentry & Joinery",201
+"735",9100101,"Carpentry & Joinery",232
+"736",9021001,"Catering",212
+"737",9030101,"Catering",243
+"738",9070901,"Catering",232
+"739",9090401,"Catering",212
+"740",9010201,"Electrical Installation Works",275
+"741",9010301,"Electrical Installation Works",229
+"742",9020101,"Electrical Installation Works",223
+"743",9021001,"Electrical Installation Works",269
+"744",9021101,"Electrical Installation Works",221
+"745",9021301,"Electrical Installation Works",290
+"746",9030401,"Electrical Installation Works",241
+"747",9040101,"Electrical Installation Works",212
+"748",9040301,"Electrical Installation Works",215
+"749",9050101,"Electrical Installation Works",313
+"750",9051801,"Electrical Installation Works",228
+"751",9070501,"Electrical Installation Works",220
+"752",9070601,"Electrical Installation Works",216
+"753",9070901,"Electrical Installation Works",215
+"754",9071001,"Electrical Installation Works",282
+"755",9080901,"Electrical Installation Works",225
+"756",9090101,"Electrical Installation Works",204
+"757",9090401,"Electrical Installation Works",228
+"758",9100101,"Electrical Installation Works",188
+"759",9030101,"Electrical Mach. Rew.",214
+"760",9050101,"Electrical Mach. Rew.",260
+"761",9010102,"Fashion Design",217
+"762",9010301,"Fashion Design",205
+"763",9021002,"Fashion Design",243
+"764",9030101,"Fashion Design",210
+"765",9050101,"Fashion Design",237
+"766",9070501,"Fashion Design",210
+"767",9070901,"Fashion Design",243
+"768",9071001,"Fashion Design",221
+"769",9090101,"Fashion Design",198
+"770",9090401,"Fashion Design",205
+"771",9100101,"Fashion Design",232
+"772",9030101,"Furniture Craft",216
+"773",9030401,"Furniture Craft",197
+"774",9070601,"Furniture Craft",226
+"775",10101,"General Arts",316
+"776",10102,"General Arts",388
+"777",10103,"General Arts",349
+"778",10104,"General Arts",302
+"779",10105,"General Arts",328
+"780",10106,"General Arts",336
+"781",10107,"General Arts",299
+"782",10108,"General Arts",291
+"783",10110,"General Arts",389
+"784",10111,"General Arts",382
+"785",10112,"General Arts",374
+"786",10114,"General Arts",337
+"787",10115,"General Arts",321
+"788",10116,"General Arts",307
+"789",10117,"General Arts",363
+"790",10118,"General Arts",298
+"791",10119,"General Arts",273
+"792",10120,"General Arts",243
+"793",10121,"General Arts",369
+"794",10128,"General Arts",278
+"795",10142,"General Arts",280
+"796",10201,"General Arts",358
+"797",10202,"General Arts",316
+"798",10203,"General Arts",256
+"799",10204,"General Arts",217
+"800",10205,"General Arts",289
+"801",10210,"General Arts",276
+"802",10213,"General Arts",279
+"803",10301,"General Arts",288
+"804",10302,"General Arts",260
+"805",10401,"General Arts",317
+"806",10402,"General Arts",209
+"807",10403,"General Arts",238
+"808",10501,"General Arts",338
+"809",10502,"General Arts",306
+"810",10504,"General Arts",277
+"811",20101,"General Arts",343
+"812",20102,"General Arts",378
+"813",20103,"General Arts",341
+"814",20104,"General Arts",369
+"815",20105,"General Arts",298
+"816",20106,"General Arts",284
+"817",20201,"General Arts",298
+"818",20202,"General Arts",265
+"819",20203,"General Arts",209
+"820",20204,"General Arts",203
+"821",20301,"General Arts",386
+"822",20302,"General Arts",329
+"823",20303,"General Arts",347
+"824",20304,"General Arts",285
+"825",20305,"General Arts",251
+"826",20401,"General Arts",311
+"827",20402,"General Arts",381
+"828",20403,"General Arts",299
+"829",20404,"General Arts",202
+"830",20405,"General Arts",209
+"831",20406,"General Arts",207
+"832",20408,"General Arts",254
+"833",20409,"General Arts",218
+"834",20410,"General Arts",302
+"835",20501,"General Arts",311
+"836",20503,"General Arts",264
+"837",20601,"General Arts",316
+"838",20602,"General Arts",290
+"839",20603,"General Arts",274
+"840",20604,"General Arts",228
+"841",20606,"General Arts",235
+"842",20607,"General Arts",210
+"843",20608,"General Arts",214
+"844",20702,"General Arts",204
+"845",20703,"General Arts",210
+"846",20704,"General Arts",208
+"847",20801,"General Arts",253
+"848",20802,"General Arts",222
+"849",20803,"General Arts",297
+"850",20804,"General Arts",196
+"851",20805,"General Arts",213
+"852",20901,"General Arts",212
+"853",20902,"General Arts",209
+"854",21001,"General Arts",276
+"855",21002,"General Arts",310
+"856",21003,"General Arts",403
+"857",21004,"General Arts",277
+"858",21005,"General Arts",244
+"859",21006,"General Arts",283
+"860",21007,"General Arts",227
+"861",21008,"General Arts",208
+"862",21009,"General Arts",210
+"863",21010,"General Arts",211
+"864",21101,"General Arts",271
+"865",21102,"General Arts",288
+"866",21103,"General Arts",396
+"867",21104,"General Arts",211
+"868",21201,"General Arts",260
+"869",21202,"General Arts",236
+"870",21203,"General Arts",212
+"871",21301,"General Arts",268
+"872",21302,"General Arts",348
+"873",21303,"General Arts",332
+"874",21304,"General Arts",210
+"875",21305,"General Arts",265
+"876",21306,"General Arts",208
+"877",21307,"General Arts",206
+"878",21401,"General Arts",259
+"879",21402,"General Arts",203
+"880",21501,"General Arts",335
+"881",21502,"General Arts",279
+"882",21503,"General Arts",195
+"883",21504,"General Arts",203
+"884",21601,"General Arts",210
+"885",30101,"General Arts",376
+"886",30102,"General Arts",361
+"887",30103,"General Arts",411
+"888",30104,"General Arts",373
+"889",30105,"General Arts",334
+"890",30106,"General Arts",374
+"891",30107,"General Arts",417
+"892",30108,"General Arts",234
+"893",30109,"General Arts",280
+"894",30110,"General Arts",240
+"895",30201,"General Arts",266
+"896",30202,"General Arts",210
+"897",30301,"General Arts",388
+"898",30302,"General Arts",251
+"899",30303,"General Arts",256
+"900",30304,"General Arts",293
+"901",30305,"General Arts",242
+"902",30401,"General Arts",360
+"903",30402,"General Arts",207
+"904",30403,"General Arts",208
+"905",30501,"General Arts",344
+"906",30502,"General Arts",289
+"907",30503,"General Arts",226
+"908",30504,"General Arts",253
+"909",30601,"General Arts",356
+"910",30602,"General Arts",233
+"911",30701,"General Arts",268
+"912",30702,"General Arts",241
+"913",30703,"General Arts",204
+"914",30801,"General Arts",295
+"915",30901,"General Arts",241
+"916",30902,"General Arts",286
+"917",30903,"General Arts",310
+"918",30904,"General Arts",215
+"919",30905,"General Arts",344
+"920",31001,"General Arts",320
+"921",31002,"General Arts",273
+"922",31101,"General Arts",264
+"923",31102,"General Arts",202
+"924",31201,"General Arts",285
+"925",31202,"General Arts",264
+"926",31203,"General Arts",206
+"927",31204,"General Arts",233
+"928",31205,"General Arts",229
+"929",31206,"General Arts",205
+"930",40101,"General Arts",291
+"931",40102,"General Arts",323
+"932",40103,"General Arts",387
+"933",40104,"General Arts",334
+"934",40105,"General Arts",345
+"935",40106,"General Arts",298
+"936",40107,"General Arts",323
+"937",40108,"General Arts",277
+"938",40110,"General Arts",242
+"939",40111,"General Arts",258
+"940",40112,"General Arts",248
+"941",40201,"General Arts",290
+"942",40202,"General Arts",249
+"943",40301,"General Arts",251
+"944",40302,"General Arts",237
+"945",40303,"General Arts",209
+"946",40304,"General Arts",209
+"947",40401,"General Arts",241
+"948",40402,"General Arts",199
+"949",40501,"General Arts",264
+"950",40502,"General Arts",237
+"951",40503,"General Arts",202
+"952",40601,"General Arts",256
+"953",40602,"General Arts",216
+"954",40603,"General Arts",217
+"955",40604,"General Arts",218
+"956",40701,"General Arts",263
+"957",40702,"General Arts",247
+"958",40801,"General Arts",209
+"959",40802,"General Arts",223
+"960",40901,"General Arts",251
+"961",40902,"General Arts",265
+"962",40903,"General Arts",283
+"963",40904,"General Arts",314
+"964",40905,"General Arts",206
+"965",41001,"General Arts",211
+"966",41002,"General Arts",217
+"967",41101,"General Arts",230
+"968",41102,"General Arts",205
+"969",50101,"General Arts",351
+"970",50102,"General Arts",382
+"971",50103,"General Arts",357
+"972",50104,"General Arts",350
+"973",50105,"General Arts",369
+"974",50106,"General Arts",334
+"975",50107,"General Arts",375
+"976",50108,"General Arts",374
+"977",50109,"General Arts",327
+"978",50110,"General Arts",390
+"979",50111,"General Arts",335
+"980",50113,"General Arts",355
+"981",50114,"General Arts",344
+"982",50115,"General Arts",312
+"983",50119,"General Arts",314
+"984",50139,"General Arts",259
+"985",50201,"General Arts",376
+"986",50202,"General Arts",324
+"987",50203,"General Arts",312
+"988",50204,"General Arts",306
+"989",50205,"General Arts",209
+"990",50206,"General Arts",233
+"991",50207,"General Arts",205
+"992",50301,"General Arts",340
+"993",50302,"General Arts",273
+"994",50303,"General Arts",215
+"995",50304,"General Arts",245
+"996",50305,"General Arts",216
+"997",50307,"General Arts",272
+"998",50401,"General Arts",256
+"999",50402,"General Arts",228
+"1000",50403,"General Arts",216
+"1001",50501,"General Arts",238
+"1002",50502,"General Arts",364
+"1003",50503,"General Arts",289
+"1004",50504,"General Arts",239
+"1005",50601,"General Arts",296
+"1006",50602,"General Arts",298
+"1007",50603,"General Arts",236
+"1008",50604,"General Arts",217
+"1009",50605,"General Arts",299
+"1010",50701,"General Arts",275
+"1011",50702,"General Arts",268
+"1012",50703,"General Arts",244
+"1013",50704,"General Arts",295
+"1014",50705,"General Arts",239
+"1015",50706,"General Arts",226
+"1016",50707,"General Arts",238
+"1017",50801,"General Arts",302
+"1018",50802,"General Arts",207
+"1019",50804,"General Arts",220
+"1020",50901,"General Arts",217
+"1021",50902,"General Arts",216
+"1022",51001,"General Arts",269
+"1023",51002,"General Arts",347
+"1024",51003,"General Arts",222
+"1025",51004,"General Arts",208
+"1026",51101,"General Arts",219
+"1027",51102,"General Arts",242
+"1028",51103,"General Arts",215
+"1029",51201,"General Arts",286
+"1030",51202,"General Arts",327
+"1031",51203,"General Arts",279
+"1032",51204,"General Arts",243
+"1033",51205,"General Arts",220
+"1034",51206,"General Arts",214
+"1035",51301,"General Arts",259
+"1036",51302,"General Arts",233
+"1037",51401,"General Arts",293
+"1038",51402,"General Arts",211
+"1039",51501,"General Arts",225
+"1040",51601,"General Arts",287
+"1041",51602,"General Arts",289
+"1042",51603,"General Arts",299
+"1043",51605,"General Arts",204
+"1044",51606,"General Arts",207
+"1045",51701,"General Arts",352
+"1046",51702,"General Arts",211
+"1047",51801,"General Arts",292
+"1048",51802,"General Arts",310
+"1049",51803,"General Arts",234
+"1050",51804,"General Arts",208
+"1051",60101,"General Arts",293
+"1052",60102,"General Arts",217
+"1053",60103,"General Arts",224
+"1054",60104,"General Arts",350
+"1055",60105,"General Arts",266
+"1056",60106,"General Arts",370
+"1057",60107,"General Arts",346
+"1058",60201,"General Arts",320
+"1059",60202,"General Arts",249
+"1060",60203,"General Arts",276
+"1061",60204,"General Arts",205
+"1062",60205,"General Arts",215
+"1063",60206,"General Arts",270
+"1064",60301,"General Arts",319
+"1065",60302,"General Arts",232
+"1066",60303,"General Arts",286
+"1067",60304,"General Arts",210
+"1068",60401,"General Arts",214
+"1069",60402,"General Arts",234
+"1070",60403,"General Arts",219
+"1071",60404,"General Arts",204
+"1072",60501,"General Arts",284
+"1073",60502,"General Arts",257
+"1074",60503,"General Arts",216
+"1075",60504,"General Arts",217
+"1076",60505,"General Arts",247
+"1077",60601,"General Arts",292
+"1078",60602,"General Arts",213
+"1079",60603,"General Arts",215
+"1080",60604,"General Arts",215
+"1081",60605,"General Arts",216
+"1082",60701,"General Arts",300
+"1083",60702,"General Arts",262
+"1084",60703,"General Arts",207
+"1085",60704,"General Arts",215
+"1086",60801,"General Arts",256
+"1087",60802,"General Arts",205
+"1088",60901,"General Arts",241
+"1089",61001,"General Arts",294
+"1090",61002,"General Arts",212
+"1091",61003,"General Arts",250
+"1092",61004,"General Arts",208
+"1093",61005,"General Arts",204
+"1094",61101,"General Arts",221
+"1095",61102,"General Arts",276
+"1096",61201,"General Arts",349
+"1097",61202,"General Arts",256
+"1098",61203,"General Arts",228
+"1099",61204,"General Arts",221
+"1100",61301,"General Arts",246
+"1101",61302,"General Arts",217
+"1102",61303,"General Arts",214
+"1103",70101,"General Arts",362
+"1104",70102,"General Arts",345
+"1105",70103,"General Arts",208
+"1106",70104,"General Arts",290
+"1107",70105,"General Arts",210
+"1108",70106,"General Arts",279
+"1109",70107,"General Arts",216
+"1110",70108,"General Arts",205
+"1111",70109,"General Arts",222
+"1112",70110,"General Arts",202
+"1113",70111,"General Arts",235
+"1114",70112,"General Arts",307
+"1115",70113,"General Arts",211
+"1116",70114,"General Arts",223
+"1117",70119,"General Arts",215
+"1118",70201,"General Arts",203
+"1119",70204,"General Arts",209
+"1120",70301,"General Arts",240
+"1121",70303,"General Arts",210
+"1122",70401,"General Arts",245
+"1123",70402,"General Arts",216
+"1124",70403,"General Arts",205
+"1125",70501,"General Arts",281
+"1126",70502,"General Arts",319
+"1127",70503,"General Arts",213
+"1128",70504,"General Arts",242
+"1129",70505,"General Arts",237
+"1130",70506,"General Arts",225
+"1131",70507,"General Arts",221
+"1132",70508,"General Arts",214
+"1133",70509,"General Arts",213
+"1134",70601,"General Arts",328
+"1135",70602,"General Arts",323
+"1136",70603,"General Arts",261
+"1137",70604,"General Arts",246
+"1138",70605,"General Arts",233
+"1139",70606,"General Arts",219
+"1140",70607,"General Arts",210
+"1141",70608,"General Arts",215
+"1142",70701,"General Arts",260
+"1143",70702,"General Arts",213
+"1144",70703,"General Arts",269
+"1145",70704,"General Arts",252
+"1146",70705,"General Arts",230
+"1147",70801,"General Arts",241
+"1148",70802,"General Arts",221
+"1149",70803,"General Arts",212
+"1150",70804,"General Arts",213
+"1151",70805,"General Arts",238
+"1152",70806,"General Arts",220
+"1153",70901,"General Arts",291
+"1154",70902,"General Arts",208
+"1155",71001,"General Arts",206
+"1156",71003,"General Arts",225
+"1157",71004,"General Arts",200
+"1158",71005,"General Arts",259
+"1159",71006,"General Arts",281
+"1160",71007,"General Arts",213
+"1161",71008,"General Arts",213
+"1162",71009,"General Arts",236
+"1163",71010,"General Arts",222
+"1164",71101,"General Arts",249
+"1165",71102,"General Arts",229
+"1166",71103,"General Arts",229
+"1167",71201,"General Arts",272
+"1168",71202,"General Arts",211
+"1169",80101,"General Arts",331
+"1170",80102,"General Arts",310
+"1171",80104,"General Arts",277
+"1172",80106,"General Arts",249
+"1173",80107,"General Arts",297
+"1174",80109,"General Arts",224
+"1175",80110,"General Arts",210
+"1176",80201,"General Arts",244
+"1177",80301,"General Arts",256
+"1178",80302,"General Arts",218
+"1179",80303,"General Arts",224
+"1180",80401,"General Arts",223
+"1181",80402,"General Arts",203
+"1182",80501,"General Arts",235
+"1183",80502,"General Arts",196
+"1184",80503,"General Arts",210
+"1185",80601,"General Arts",226
+"1186",80602,"General Arts",212
+"1187",80701,"General Arts",196
+"1188",80801,"General Arts",246
+"1189",80901,"General Arts",202
+"1190",80902,"General Arts",198
+"1191",81001,"General Arts",202
+"1192",81101,"General Arts",203
+"1193",81102,"General Arts",209
+"1194",81201,"General Arts",213
+"1195",81202,"General Arts",207
+"1196",81301,"General Arts",201
+"1197",81302,"General Arts",203
+"1198",90101,"General Arts",269
+"1199",90103,"General Arts",228
+"1200",90201,"General Arts",252
+"1201",90202,"General Arts",227
+"1202",90301,"General Arts",252
+"1203",90302,"General Arts",210
+"1204",90303,"General Arts",234
+"1205",90401,"General Arts",271
+"1206",90402,"General Arts",258
+"1207",90403,"General Arts",302
+"1208",90404,"General Arts",202
+"1209",90405,"General Arts",234
+"1210",90501,"General Arts",299
+"1211",90503,"General Arts",194
+"1212",90504,"General Arts",212
+"1213",90505,"General Arts",303
+"1214",90506,"General Arts",204
+"1215",90601,"General Arts",235
+"1216",90602,"General Arts",272
+"1217",100101,"General Arts",198
+"1218",100102,"General Arts",291
+"1219",100104,"General Arts",319
+"1220",100105,"General Arts",258
+"1221",100106,"General Arts",248
+"1222",100201,"General Arts",319
+"1223",100202,"General Arts",252
+"1224",100204,"General Arts",194
+"1225",100301,"General Arts",197
+"1226",100302,"General Arts",294
+"1227",100401,"General Arts",251
+"1228",100502,"General Arts",198
+"1229",100503,"General Arts",273
+"1230",10101,"General Science",299
+"1231",10102,"General Science",389
+"1232",10103,"General Science",335
+"1233",10104,"General Science",245
+"1234",10105,"General Science",339
+"1235",10106,"General Science",336
+"1236",10107,"General Science",281
+"1237",10108,"General Science",248
+"1238",10110,"General Science",401
+"1239",10111,"General Science",407
+"1240",10112,"General Science",362
+"1241",10114,"General Science",325
+"1242",10115,"General Science",274
+"1243",10116,"General Science",288
+"1244",10117,"General Science",368
+"1245",10118,"General Science",298
+"1246",10119,"General Science",235
+"1247",10121,"General Science",358
+"1248",10128,"General Science",203
+"1249",10142,"General Science",225
+"1250",10201,"General Science",344
+"1251",10202,"General Science",320
+"1252",10205,"General Science",242
+"1253",10213,"General Science",260
+"1254",10301,"General Science",292
+"1255",10401,"General Science",324
+"1256",10403,"General Science",230
+"1257",10501,"General Science",337
+"1258",10502,"General Science",297
+"1259",20101,"General Science",338
+"1260",20102,"General Science",385
+"1261",20103,"General Science",317
+"1262",20104,"General Science",358
+"1263",20105,"General Science",228
+"1264",20106,"General Science",250
+"1265",20201,"General Science",233
+"1266",20301,"General Science",403
+"1267",20302,"General Science",313
+"1268",20303,"General Science",338
+"1269",20401,"General Science",306
+"1270",20402,"General Science",374
+"1271",20403,"General Science",286
+"1272",20501,"General Science",293
+"1273",20502,"General Science",209
+"1274",20601,"General Science",312
+"1275",20602,"General Science",285
+"1276",20702,"General Science",212
+"1277",20801,"General Science",221
+"1278",20803,"General Science",312
+"1279",20901,"General Science",239
+"1280",21001,"General Science",252
+"1281",21002,"General Science",314
+"1282",21003,"General Science",411
+"1283",21004,"General Science",246
+"1284",21005,"General Science",206
+"1285",21006,"General Science",264
+"1286",21101,"General Science",214
+"1287",21103,"General Science",393
+"1288",21201,"General Science",238
+"1289",21202,"General Science",158
+"1290",21301,"General Science",231
+"1291",21302,"General Science",347
+"1292",21303,"General Science",343
+"1293",21401,"General Science",242
+"1294",21501,"General Science",337
+"1295",21502,"General Science",281
+"1296",21503,"General Science",210
+"1297",30101,"General Science",374
+"1298",30102,"General Science",376
+"1299",30103,"General Science",417
+"1300",30104,"General Science",406
+"1301",30105,"General Science",321
+"1302",30106,"General Science",373
+"1303",30107,"General Science",433
+"1304",30201,"General Science",271
+"1305",30301,"General Science",385
+"1306",30302,"General Science",232
+"1307",30401,"General Science",363
+"1308",30501,"General Science",344
+"1309",30502,"General Science",299
+"1310",30601,"General Science",342
+"1311",30702,"General Science",232
+"1312",30801,"General Science",308
+"1313",30903,"General Science",304
+"1314",30904,"General Science",221
+"1315",30905,"General Science",347
+"1316",31001,"General Science",311
+"1317",31101,"General Science",275
+"1318",31201,"General Science",299
+"1319",40101,"General Science",309
+"1320",40102,"General Science",330
+"1321",40103,"General Science",400
+"1322",40104,"General Science",350
+"1323",40105,"General Science",346
+"1324",40106,"General Science",309
+"1325",40107,"General Science",332
+"1326",40108,"General Science",265
+"1327",40111,"General Science",239
+"1328",40201,"General Science",303
+"1329",40202,"General Science",231
+"1330",40301,"General Science",272
+"1331",40302,"General Science",213
+"1332",40401,"General Science",210
+"1333",40501,"General Science",263
+"1334",40601,"General Science",264
+"1335",40701,"General Science",227
+"1336",40801,"General Science",207
+"1337",40901,"General Science",210
+"1338",40902,"General Science",252
+"1339",40903,"General Science",279
+"1340",40904,"General Science",312
+"1341",41001,"General Science",233
+"1342",41101,"General Science",209
+"1343",50101,"General Science",352
+"1344",50102,"General Science",394
+"1345",50103,"General Science",338
+"1346",50104,"General Science",363
+"1347",50105,"General Science",369
+"1348",50106,"General Science",310
+"1349",50107,"General Science",379
+"1350",50108,"General Science",387
+"1351",50109,"General Science",311
+"1352",50110,"General Science",402
+"1353",50111,"General Science",327
+"1354",50112,"General Science",316
+"1355",50113,"General Science",351
+"1356",50114,"General Science",334
+"1357",50115,"General Science",330
+"1358",50201,"General Science",366
+"1359",50202,"General Science",331
+"1360",50203,"General Science",275
+"1361",50206,"General Science",210
+"1362",50301,"General Science",334
+"1363",50302,"General Science",241
+"1364",50401,"General Science",214
+"1365",50501,"General Science",226
+"1366",50502,"General Science",351
+"1367",50503,"General Science",249
+"1368",50601,"General Science",282
+"1369",50602,"General Science",294
+"1370",50604,"General Science",236
+"1371",50605,"General Science",301
+"1372",50701,"General Science",249
+"1373",50703,"General Science",214
+"1374",50704,"General Science",288
+"1375",50801,"General Science",277
+"1376",50901,"General Science",231
+"1377",51001,"General Science",272
+"1378",51002,"General Science",337
+"1379",51003,"General Science",221
+"1380",51004,"General Science",221
+"1381",51101,"General Science",225
+"1382",51102,"General Science",242
+"1383",51201,"General Science",245
+"1384",51202,"General Science",274
+"1385",51203,"General Science",226
+"1386",51204,"General Science",210
+"1387",51301,"General Science",216
+"1388",51401,"General Science",241
+"1389",51601,"General Science",278
+"1390",51602,"General Science",302
+"1391",51603,"General Science",273
+"1392",51701,"General Science",278
+"1393",51802,"General Science",283
+"1394",51803,"General Science",223
+"1395",60101,"General Science",266
+"1396",60103,"General Science",227
+"1397",60104,"General Science",356
+"1398",60105,"General Science",232
+"1399",60106,"General Science",385
+"1400",60107,"General Science",343
+"1401",60201,"General Science",298
+"1402",60203,"General Science",228
+"1403",60301,"General Science",313
+"1404",60303,"General Science",268
+"1405",60402,"General Science",210
+"1406",60403,"General Science",231
+"1407",60501,"General Science",268
+"1408",60502,"General Science",240
+"1409",60601,"General Science",297
+"1410",60701,"General Science",294
+"1411",60702,"General Science",240
+"1412",60801,"General Science",235
+"1413",60901,"General Science",218
+"1414",61001,"General Science",316
+"1415",61201,"General Science",351
+"1416",61202,"General Science",224
+"1417",61203,"General Science",220
+"1418",61301,"General Science",241
+"1419",61302,"General Science",218
+"1420",70101,"General Science",373
+"1421",70102,"General Science",359
+"1422",70103,"General Science",214
+"1423",70104,"General Science",283
+"1424",70105,"General Science",199
+"1425",70109,"General Science",228
+"1426",70110,"General Science",218
+"1427",70201,"General Science",228
+"1428",70301,"General Science",204
+"1429",70401,"General Science",238
+"1430",70501,"General Science",259
+"1431",70502,"General Science",334
+"1432",70505,"General Science",224
+"1433",70601,"General Science",352
+"1434",70602,"General Science",313
+"1435",70603,"General Science",251
+"1436",70604,"General Science",221
+"1437",70605,"General Science",212
+"1438",70701,"General Science",254
+"1439",70703,"General Science",249
+"1440",70801,"General Science",245
+"1441",70802,"General Science",235
+"1442",70901,"General Science",280
+"1443",71001,"General Science",203
+"1444",71004,"General Science",243
+"1445",71005,"General Science",288
+"1446",71006,"General Science",272
+"1447",71101,"General Science",221
+"1448",71103,"General Science",209
+"1449",71104,"General Science",212
+"1450",71201,"General Science",281
+"1451",80101,"General Science",339
+"1452",80102,"General Science",306
+"1453",80107,"General Science",326
+"1454",80108,"General Science",253
+"1455",80109,"General Science",216
+"1456",80201,"General Science",236
+"1457",80301,"General Science",241
+"1458",80401,"General Science",205
+"1459",80501,"General Science",231
+"1460",80601,"General Science",199
+"1461",80701,"General Science",220
+"1462",80801,"General Science",224
+"1463",80902,"General Science",198
+"1464",81201,"General Science",230
+"1465",81301,"General Science",209
+"1466",90101,"General Science",272
+"1467",90201,"General Science",234
+"1468",90301,"General Science",246
+"1469",90401,"General Science",247
+"1470",90402,"General Science",246
+"1471",90403,"General Science",314
+"1472",90501,"General Science",304
+"1473",90505,"General Science",339
+"1474",100102,"General Science",273
+"1475",100104,"General Science",313
+"1476",100201,"General Science",334
+"1477",100202,"General Science",265
+"1478",100302,"General Science",285
+"1479",100401,"General Science",228
+"1480",100503,"General Science",276
+"1481",9010102,"Hair Dressing",209
+"1482",10101,"Home Economics",284
+"1483",10102,"Home Economics",363
+"1484",10103,"Home Economics",320
+"1485",10104,"Home Economics",264
+"1486",10106,"Home Economics",293
+"1487",10107,"Home Economics",286
+"1488",10108,"Home Economics",278
+"1489",10109,"Home Economics",259
+"1490",10110,"Home Economics",366
+"1491",10112,"Home Economics",363
+"1492",10114,"Home Economics",319
+"1493",10115,"Home Economics",275
+"1494",10116,"Home Economics",279
+"1495",10117,"Home Economics",341
+"1496",10118,"Home Economics",292
+"1497",10119,"Home Economics",264
+"1498",10120,"Home Economics",253
+"1499",10128,"Home Economics",205
+"1500",10201,"Home Economics",340
+"1501",10202,"Home Economics",321
+"1502",10203,"Home Economics",253
+"1503",10204,"Home Economics",206
+"1504",10205,"Home Economics",266
+"1505",10210,"Home Economics",241
+"1506",10213,"Home Economics",281
+"1507",10301,"Home Economics",277
+"1508",10302,"Home Economics",236
+"1509",10401,"Home Economics",312
+"1510",10402,"Home Economics",213
+"1511",10403,"Home Economics",198
+"1512",10501,"Home Economics",313
+"1513",10503,"Home Economics",257
+"1514",10504,"Home Economics",259
+"1515",20103,"Home Economics",316
+"1516",20104,"Home Economics",321
+"1517",20105,"Home Economics",289
+"1518",20106,"Home Economics",275
+"1519",20202,"Home Economics",207
+"1520",20204,"Home Economics",206
+"1521",20301,"Home Economics",394
+"1522",20302,"Home Economics",301
+"1523",20303,"Home Economics",311
+"1524",20304,"Home Economics",262
+"1525",20305,"Home Economics",253
+"1526",20401,"Home Economics",304
+"1527",20402,"Home Economics",354
+"1528",20403,"Home Economics",311
+"1529",20404,"Home Economics",226
+"1530",20405,"Home Economics",210
+"1531",20406,"Home Economics",201
+"1532",20407,"Home Economics",203
+"1533",20408,"Home Economics",247
+"1534",20409,"Home Economics",222
+"1535",20410,"Home Economics",276
+"1536",20501,"Home Economics",288
+"1537",20502,"Home Economics",211
+"1538",20503,"Home Economics",253
+"1539",20601,"Home Economics",312
+"1540",20602,"Home Economics",277
+"1541",20603,"Home Economics",254
+"1542",20604,"Home Economics",210
+"1543",20606,"Home Economics",227
+"1544",20701,"Home Economics",213
+"1545",20702,"Home Economics",218
+"1546",20801,"Home Economics",243
+"1547",20802,"Home Economics",216
+"1548",20803,"Home Economics",252
+"1549",20804,"Home Economics",205
+"1550",20805,"Home Economics",220
+"1551",20902,"Home Economics",270
+"1552",21001,"Home Economics",265
+"1553",21002,"Home Economics",289
+"1554",21004,"Home Economics",270
+"1555",21005,"Home Economics",232
+"1556",21006,"Home Economics",272
+"1557",21007,"Home Economics",239
+"1558",21008,"Home Economics",203
+"1559",21101,"Home Economics",243
+"1560",21102,"Home Economics",301
+"1561",21103,"Home Economics",388
+"1562",21104,"Home Economics",205
+"1563",21201,"Home Economics",269
+"1564",21202,"Home Economics",236
+"1565",21203,"Home Economics",224
+"1566",21301,"Home Economics",220
+"1567",21302,"Home Economics",330
+"1568",21303,"Home Economics",313
+"1569",21304,"Home Economics",206
+"1570",21305,"Home Economics",230
+"1571",21306,"Home Economics",313
+"1572",21307,"Home Economics",201
+"1573",21401,"Home Economics",229
+"1574",21402,"Home Economics",207
+"1575",21501,"Home Economics",345
+"1576",21502,"Home Economics",243
+"1577",21503,"Home Economics",190
+"1578",21504,"Home Economics",199
+"1579",21505,"Home Economics",206
+"1580",30103,"Home Economics",400
+"1581",30105,"Home Economics",292
+"1582",30106,"Home Economics",350
+"1583",30107,"Home Economics",403
+"1584",30108,"Home Economics",214
+"1585",30109,"Home Economics",283
+"1586",30110,"Home Economics",244
+"1587",30201,"Home Economics",247
+"1588",30203,"Home Economics",210
+"1589",30301,"Home Economics",342
+"1590",30302,"Home Economics",242
+"1591",30303,"Home Economics",238
+"1592",30304,"Home Economics",272
+"1593",30305,"Home Economics",207
+"1594",30401,"Home Economics",342
+"1595",30402,"Home Economics",192
+"1596",30403,"Home Economics",215
+"1597",30501,"Home Economics",324
+"1598",30502,"Home Economics",273
+"1599",30503,"Home Economics",223
+"1600",30504,"Home Economics",262
+"1601",30601,"Home Economics",330
+"1602",30602,"Home Economics",234
+"1603",30603,"Home Economics",248
+"1604",30701,"Home Economics",251
+"1605",30702,"Home Economics",236
+"1606",30703,"Home Economics",208
+"1607",30801,"Home Economics",280
+"1608",30802,"Home Economics",226
+"1609",30901,"Home Economics",238
+"1610",30902,"Home Economics",279
+"1611",30903,"Home Economics",296
+"1612",30904,"Home Economics",203
+"1613",30905,"Home Economics",325
+"1614",31001,"Home Economics",303
+"1615",31002,"Home Economics",250
+"1616",31003,"Home Economics",246
+"1617",31101,"Home Economics",266
+"1618",31201,"Home Economics",284
+"1619",31202,"Home Economics",253
+"1620",31204,"Home Economics",210
+"1621",31206,"Home Economics",221
+"1622",40101,"Home Economics",260
+"1623",40102,"Home Economics",296
+"1624",40103,"Home Economics",379
+"1625",40105,"Home Economics",334
+"1626",40106,"Home Economics",291
+"1627",40108,"Home Economics",245
+"1628",40109,"Home Economics",200
+"1629",40110,"Home Economics",231
+"1630",40111,"Home Economics",254
+"1631",40112,"Home Economics",234
+"1632",40202,"Home Economics",240
+"1633",40301,"Home Economics",252
+"1634",40302,"Home Economics",219
+"1635",40303,"Home Economics",212
+"1636",40304,"Home Economics",214
+"1637",40401,"Home Economics",215
+"1638",40402,"Home Economics",205
+"1639",40501,"Home Economics",255
+"1640",40601,"Home Economics",238
+"1641",40602,"Home Economics",203
+"1642",40701,"Home Economics",247
+"1643",40801,"Home Economics",224
+"1644",40901,"Home Economics",229
+"1645",40902,"Home Economics",258
+"1646",40903,"Home Economics",273
+"1647",40904,"Home Economics",282
+"1648",40905,"Home Economics",202
+"1649",41001,"Home Economics",208
+"1650",41002,"Home Economics",240
+"1651",41101,"Home Economics",210
+"1652",41102,"Home Economics",211
+"1653",50101,"Home Economics",329
+"1654",50102,"Home Economics",388
+"1655",50103,"Home Economics",349
+"1656",50105,"Home Economics",344
+"1657",50106,"Home Economics",324
+"1658",50107,"Home Economics",350
+"1659",50109,"Home Economics",300
+"1660",50112,"Home Economics",293
+"1661",50113,"Home Economics",316
+"1662",50114,"Home Economics",340
+"1663",50115,"Home Economics",298
+"1664",50201,"Home Economics",375
+"1665",50202,"Home Economics",322
+"1666",50204,"Home Economics",288
+"1667",50205,"Home Economics",265
+"1668",50301,"Home Economics",327
+"1669",50302,"Home Economics",274
+"1670",50305,"Home Economics",233
+"1671",50307,"Home Economics",257
+"1672",50402,"Home Economics",217
+"1673",50501,"Home Economics",221
+"1674",50502,"Home Economics",365
+"1675",50503,"Home Economics",300
+"1676",50504,"Home Economics",241
+"1677",50601,"Home Economics",281
+"1678",50602,"Home Economics",295
+"1679",50603,"Home Economics",241
+"1680",50604,"Home Economics",220
+"1681",50605,"Home Economics",289
+"1682",50701,"Home Economics",270
+"1683",50702,"Home Economics",272
+"1684",50703,"Home Economics",257
+"1685",50704,"Home Economics",285
+"1686",50705,"Home Economics",241
+"1687",50706,"Home Economics",216
+"1688",50707,"Home Economics",227
+"1689",50801,"Home Economics",272
+"1690",50802,"Home Economics",249
+"1691",50803,"Home Economics",221
+"1692",50804,"Home Economics",212
+"1693",50901,"Home Economics",212
+"1694",50902,"Home Economics",223
+"1695",51002,"Home Economics",333
+"1696",51003,"Home Economics",238
+"1697",51004,"Home Economics",214
+"1698",51101,"Home Economics",208
+"1699",51102,"Home Economics",242
+"1700",51103,"Home Economics",218
+"1701",51201,"Home Economics",276
+"1702",51202,"Home Economics",307
+"1703",51204,"Home Economics",227
+"1704",51205,"Home Economics",239
+"1705",51301,"Home Economics",240
+"1706",51402,"Home Economics",225
+"1707",51601,"Home Economics",287
+"1708",51602,"Home Economics",303
+"1709",51603,"Home Economics",301
+"1710",51604,"Home Economics",260
+"1711",51605,"Home Economics",240
+"1712",51606,"Home Economics",213
+"1713",51701,"Home Economics",349
+"1714",51801,"Home Economics",299
+"1715",51802,"Home Economics",282
+"1716",51803,"Home Economics",264
+"1717",60101,"Home Economics",251
+"1718",60103,"Home Economics",215
+"1719",60104,"Home Economics",339
+"1720",60105,"Home Economics",246
+"1721",60201,"Home Economics",285
+"1722",60202,"Home Economics",214
+"1723",60203,"Home Economics",276
+"1724",60204,"Home Economics",213
+"1725",60205,"Home Economics",226
+"1726",60206,"Home Economics",202
+"1727",60301,"Home Economics",278
+"1728",60302,"Home Economics",221
+"1729",60303,"Home Economics",245
+"1730",60304,"Home Economics",221
+"1731",60401,"Home Economics",208
+"1732",60402,"Home Economics",209
+"1733",60404,"Home Economics",224
+"1734",60502,"Home Economics",221
+"1735",60505,"Home Economics",255
+"1736",60601,"Home Economics",257
+"1737",60603,"Home Economics",206
+"1738",60701,"Home Economics",272
+"1739",60702,"Home Economics",236
+"1740",60703,"Home Economics",221
+"1741",60801,"Home Economics",226
+"1742",60802,"Home Economics",221
+"1743",60901,"Home Economics",211
+"1744",61001,"Home Economics",267
+"1745",61101,"Home Economics",251
+"1746",61102,"Home Economics",279
+"1747",61201,"Home Economics",332
+"1748",61202,"Home Economics",227
+"1749",61203,"Home Economics",217
+"1750",61301,"Home Economics",220
+"1751",61302,"Home Economics",225
+"1752",70101,"Home Economics",331
+"1753",70102,"Home Economics",302
+"1754",70103,"Home Economics",223
+"1755",70104,"Home Economics",259
+"1756",70105,"Home Economics",209
+"1757",70106,"Home Economics",273
+"1758",70107,"Home Economics",213
+"1759",70109,"Home Economics",208
+"1760",70110,"Home Economics",208
+"1761",70111,"Home Economics",230
+"1762",70201,"Home Economics",220
+"1763",70301,"Home Economics",192
+"1764",70302,"Home Economics",239
+"1765",70401,"Home Economics",207
+"1766",70501,"Home Economics",257
+"1767",70502,"Home Economics",284
+"1768",70503,"Home Economics",211
+"1769",70504,"Home Economics",229
+"1770",70505,"Home Economics",233
+"1771",70506,"Home Economics",217
+"1772",70507,"Home Economics",213
+"1773",70508,"Home Economics",214
+"1774",70602,"Home Economics",277
+"1775",70603,"Home Economics",242
+"1776",70604,"Home Economics",202
+"1777",70605,"Home Economics",221
+"1778",70606,"Home Economics",202
+"1779",70607,"Home Economics",221
+"1780",70702,"Home Economics",208
+"1781",70703,"Home Economics",224
+"1782",70704,"Home Economics",236
+"1783",70705,"Home Economics",225
+"1784",70801,"Home Economics",207
+"1785",70802,"Home Economics",219
+"1786",70803,"Home Economics",218
+"1787",70804,"Home Economics",209
+"1788",70901,"Home Economics",265
+"1789",70902,"Home Economics",233
+"1790",71001,"Home Economics",218
+"1791",71002,"Home Economics",227
+"1792",71004,"Home Economics",217
+"1793",71006,"Home Economics",218
+"1794",71008,"Home Economics",229
+"1795",71010,"Home Economics",216
+"1796",71101,"Home Economics",206
+"1797",71103,"Home Economics",200
+"1798",71104,"Home Economics",209
+"1799",71201,"Home Economics",223
+"1800",71202,"Home Economics",228
+"1801",80101,"Home Economics",286
+"1802",80102,"Home Economics",262
+"1803",80103,"Home Economics",261
+"1804",80104,"Home Economics",262
+"1805",80105,"Home Economics",254
+"1806",80106,"Home Economics",231
+"1807",80108,"Home Economics",239
+"1808",80201,"Home Economics",204
+"1809",80202,"Home Economics",218
+"1810",80302,"Home Economics",213
+"1811",80303,"Home Economics",205
+"1812",80501,"Home Economics",206
+"1813",80601,"Home Economics",200
+"1814",80602,"Home Economics",225
+"1815",80701,"Home Economics",220
+"1816",80702,"Home Economics",205
+"1817",80801,"Home Economics",211
+"1818",80802,"Home Economics",208
+"1819",80902,"Home Economics",214
+"1820",81101,"Home Economics",217
+"1821",81102,"Home Economics",222
+"1822",81201,"Home Economics",220
+"1823",81301,"Home Economics",207
+"1824",90101,"Home Economics",240
+"1825",90102,"Home Economics",207
+"1826",90201,"Home Economics",209
+"1827",90301,"Home Economics",221
+"1828",90302,"Home Economics",223
+"1829",90303,"Home Economics",202
+"1830",90401,"Home Economics",257
+"1831",90402,"Home Economics",220
+"1832",90404,"Home Economics",214
+"1833",90405,"Home Economics",208
+"1834",90501,"Home Economics",256
+"1835",90502,"Home Economics",200
+"1836",90601,"Home Economics",216
+"1837",90602,"Home Economics",237
+"1838",100101,"Home Economics",199
+"1839",100102,"Home Economics",262
+"1840",100104,"Home Economics",282
+"1841",100105,"Home Economics",242
+"1842",100203,"Home Economics",201
+"1843",100204,"Home Economics",202
+"1844",100301,"Home Economics",195
+"1845",100302,"Home Economics",263
+"1846",100303,"Home Economics",201
+"1847",100304,"Home Economics",227
+"1848",100401,"Home Economics",245
+"1849",100402,"Home Economics",196
+"1850",100501,"Home Economics",224
+"1851",100502,"Home Economics",209
+"1852",9010201,"Industrial Mechanics",226
+"1853",9050101,"Industrial Mechanics",282
+"1854",9010101,"Mech. Eng. Craft Pract.",262
+"1855",9010201,"Mech. Eng. Craft Pract.",261
+"1856",9020101,"Mech. Eng. Craft Pract.",290
+"1857",9021101,"Mech. Eng. Craft Pract.",210
+"1858",9021301,"Mech. Eng. Craft Pract.",270
+"1859",9030101,"Mech. Eng. Craft Pract.",262
+"1860",9030401,"Mech. Eng. Craft Pract.",245
+"1861",9040101,"Mech. Eng. Craft Pract.",256
+"1862",9040301,"Mech. Eng. Craft Pract.",210
+"1863",9070501,"Mech. Eng. Craft Pract.",202
+"1864",9070601,"Mech. Eng. Craft Pract.",242
+"1865",9071001,"Mech. Eng. Craft Pract.",216
+"1866",9080103,"Mech. Eng. Craft Pract.",229
+"1867",9090101,"Mech. Eng. Craft Pract.",200
+"1868",9090401,"Mech. Eng. Craft Pract.",203
+"1869",9100101,"Mech. Eng. Craft Pract.",199
+"1870",9010201,"Motor Vehicle Mech.",210
+"1871",9020101,"Motor Vehicle Mech.",223
+"1872",9021002,"Motor Vehicle Mech.",204
+"1873",9021101,"Motor Vehicle Mech.",219
+"1874",9021301,"Motor Vehicle Mech.",263
+"1875",9030101,"Motor Vehicle Mech.",266
+"1876",9030401,"Motor Vehicle Mech.",216
+"1877",9040101,"Motor Vehicle Mech.",243
+"1878",9040301,"Motor Vehicle Mech.",202
+"1879",9050101,"Motor Vehicle Mech.",308
+"1880",9070501,"Motor Vehicle Mech.",207
+"1881",9070601,"Motor Vehicle Mech.",198
+"1882",9071001,"Motor Vehicle Mech.",211
+"1883",9080103,"Motor Vehicle Mech.",228
+"1884",9090101,"Motor Vehicle Mech.",223
+"1885",9090401,"Motor Vehicle Mech.",204
+"1886",9100101,"Motor Vehicle Mech.",228
+"1887",9020101,"Painting & Decorating",213
+"1888",9030101,"Painting & Decorating",218
+"1889",9030401,"Painting & Decorating",224
+"1890",9070501,"Painting & Decorating",218
+"1891",9070601,"Painting & Decorating",211
+"1892",9090101,"Painting & Decorating",213
+"1893",9090401,"Painting & Decorating",228
+"1894",9010101,"Plumbing & Gas Fitting",223
+"1895",9020101,"Plumbing & Gas Fitting",228
+"1896",9030101,"Plumbing & Gas Fitting",258
+"1897",9030401,"Plumbing & Gas Fitting",268
+"1898",9040101,"Plumbing & Gas Fitting",198
+"1899",9040301,"Plumbing & Gas Fitting",216
+"1900",9050101,"Plumbing & Gas Fitting",225
+"1901",9090101,"Plumbing & Gas Fitting",191
+"1902",9010201,"Printing",225
+"1903",9050101,"Radio, TV & Electronics",271
+"1904",9080901,"Radio, TV & Electronics",221
+"1905",9030101,"Refrigeration & Air Cond.",193
+"1906",9040101,"Refrigeration & Air Cond.",213
+"1907",9050101,"Refrigeration & Air Cond.",225
+"1908",9010301,"Secretarial",232
+"1909",9070501,"Secretarial",234
+"1910",9070601,"Secretarial",239
+"1911",9080103,"Secretarial",209
+"1912",9090401,"Secretarial",206
+"1913",9010101,"Small Eng. Repairs",253
+"1914",10106,"Technical",301
+"1915",10109,"Technical",257
+"1916",10115,"Technical",295
+"1917",10120,"Technical",259
+"1918",10202,"Technical",290
+"1919",10204,"Technical",234
+"1920",10302,"Technical",275
+"1921",10402,"Technical",198
+"1922",10504,"Technical",264
+"1923",20101,"Technical",339
+"1924",20201,"Technical",311
+"1925",20203,"Technical",219
+"1926",20305,"Technical",292
+"1927",20404,"Technical",165
+"1928",20405,"Technical",252
+"1929",20407,"Technical",234
+"1930",20502,"Technical",225
+"1931",20603,"Technical",258
+"1932",20606,"Technical",211
+"1933",20701,"Technical",217
+"1934",20802,"Technical",231
+"1935",20804,"Technical",203
+"1936",21005,"Technical",211
+"1937",21008,"Technical",215
+"1938",21102,"Technical",273
+"1939",21203,"Technical",216
+"1940",21304,"Technical",211
+"1941",21305,"Technical",260
+"1942",21307,"Technical",220
+"1943",21504,"Technical",249
+"1944",21505,"Technical",207
+"1945",30104,"Technical",376
+"1946",30108,"Technical",261
+"1947",30110,"Technical",218
+"1948",30203,"Technical",207
+"1949",30302,"Technical",245
+"1950",30303,"Technical",243
+"1951",30305,"Technical",208
+"1952",30502,"Technical",273
+"1953",30503,"Technical",236
+"1954",30603,"Technical",239
+"1955",30701,"Technical",256
+"1956",30703,"Technical",201
+"1957",30901,"Technical",256
+"1958",31002,"Technical",239
+"1959",31202,"Technical",238
+"1960",31204,"Technical",210
+"1961",40104,"Technical",343
+"1962",40108,"Technical",275
+"1963",40109,"Technical",203
+"1964",40202,"Technical",241
+"1965",40303,"Technical",205
+"1966",40503,"Technical",209
+"1967",40602,"Technical",207
+"1968",40701,"Technical",249
+"1969",40802,"Technical",215
+"1970",40905,"Technical",204
+"1971",40906,"Technical",211
+"1972",41001,"Technical",216
+"1973",41101,"Technical",210
+"1974",50109,"Technical",290
+"1975",50112,"Technical",304
+"1976",50113,"Technical",307
+"1977",50204,"Technical",283
+"1978",50205,"Technical",264
+"1979",50303,"Technical",216
+"1980",50304,"Technical",219
+"1981",50305,"Technical",215
+"1982",50402,"Technical",227
+"1983",50606,"Technical",258
+"1984",50705,"Technical",226
+"1985",50706,"Technical",216
+"1986",50803,"Technical",209
+"1987",51004,"Technical",221
+"1988",51101,"Technical",221
+"1989",51103,"Technical",232
+"1990",51202,"Technical",282
+"1991",51205,"Technical",213
+"1992",51402,"Technical",212
+"1993",51604,"Technical",264
+"1994",51605,"Technical",221
+"1995",60101,"Technical",284
+"1996",60206,"Technical",244
+"1997",60304,"Technical",214
+"1998",60401,"Technical",225
+"1999",60504,"Technical",219
+"2000",60602,"Technical",238
+"2001",60603,"Technical",216
+"2002",60702,"Technical",249
+"2003",60703,"Technical",223
+"2004",60901,"Technical",215
+"2005",61002,"Technical",221
+"2006",61004,"Technical",221
+"2007",61101,"Technical",225
+"2008",61204,"Technical",215
+"2009",61302,"Technical",216
+"2010",70102,"Technical",300
+"2011",70110,"Technical",203
+"2012",70111,"Technical",227
+"2013",70114,"Technical",217
+"2014",70119,"Technical",223
+"2015",70202,"Technical",240
+"2016",70203,"Technical",213
+"2017",70303,"Technical",202
+"2018",70401,"Technical",242
+"2019",70502,"Technical",200
+"2020",70506,"Technical",216
+"2021",70606,"Technical",212
+"2022",70607,"Technical",213
+"2023",70705,"Technical",212
+"2024",70802,"Technical",214
+"2025",70803,"Technical",222
+"2026",70804,"Technical",221
+"2027",70902,"Technical",219
+"2028",71002,"Technical",267
+"2029",71007,"Technical",259
+"2030",71008,"Technical",217
+"2031",71104,"Technical",209
+"2032",71202,"Technical",228
+"2033",80101,"Technical",237
+"2034",80106,"Technical",208
+"2035",80202,"Technical",218
+"2036",80601,"Technical",200
+"2037",80702,"Technical",202
+"2038",80802,"Technical",210
+"2039",90102,"Technical",208
+"2040",90201,"Technical",206
+"2041",90301,"Technical",211
+"2042",90402,"Technical",201
+"2043",90502,"Technical",210
+"2044",90504,"Technical",223
+"2045",90602,"Technical",234
+"2046",100101,"Technical",201
+"2047",100203,"Technical",200
+"2048",100402,"Technical",209
+"2049",100501,"Technical",207
+"2050",9050101,"Upholstery",244
+"2051",10101,"Visual Arts",296
+"2052",10102,"Visual Arts",343
+"2053",10103,"Visual Arts",343
+"2054",10104,"Visual Arts",273
+"2055",10105,"Visual Arts",323
+"2056",10106,"Visual Arts",314
+"2057",10107,"Visual Arts",288
+"2058",10108,"Visual Arts",280
+"2059",10109,"Visual Arts",278
+"2060",10110,"Visual Arts",389
+"2061",10111,"Visual Arts",379
+"2062",10112,"Visual Arts",316
+"2063",10114,"Visual Arts",319
+"2064",10115,"Visual Arts",290
+"2065",10116,"Visual Arts",288
+"2066",10117,"Visual Arts",358
+"2067",10118,"Visual Arts",278
+"2068",10119,"Visual Arts",272
+"2069",10120,"Visual Arts",266
+"2070",10121,"Visual Arts",360
+"2071",10128,"Visual Arts",252
+"2072",10142,"Visual Arts",275
+"2073",10201,"Visual Arts",339
+"2074",10202,"Visual Arts",310
+"2075",10203,"Visual Arts",249
+"2076",10204,"Visual Arts",216
+"2077",10205,"Visual Arts",271
+"2078",10210,"Visual Arts",248
+"2079",10213,"Visual Arts",281
+"2080",10301,"Visual Arts",271
+"2081",10401,"Visual Arts",314
+"2082",10402,"Visual Arts",213
+"2083",10501,"Visual Arts",331
+"2084",10502,"Visual Arts",282
+"2085",10503,"Visual Arts",264
+"2086",10504,"Visual Arts",253
+"2087",20101,"Visual Arts",339
+"2088",20102,"Visual Arts",374
+"2089",20104,"Visual Arts",344
+"2090",20105,"Visual Arts",210
+"2091",20106,"Visual Arts",263
+"2092",20201,"Visual Arts",295
+"2093",20202,"Visual Arts",204
+"2094",20203,"Visual Arts",217
+"2095",20301,"Visual Arts",385
+"2096",20302,"Visual Arts",307
+"2097",20304,"Visual Arts",257
+"2098",20305,"Visual Arts",238
+"2099",20401,"Visual Arts",308
+"2100",20402,"Visual Arts",359
+"2101",20404,"Visual Arts",173
+"2102",20405,"Visual Arts",211
+"2103",20406,"Visual Arts",254
+"2104",20407,"Visual Arts",212
+"2105",20408,"Visual Arts",234
+"2106",20410,"Visual Arts",252
+"2107",20501,"Visual Arts",270
+"2108",20502,"Visual Arts",204
+"2109",20503,"Visual Arts",254
+"2110",20601,"Visual Arts",311
+"2111",20602,"Visual Arts",270
+"2112",20606,"Visual Arts",216
+"2113",20607,"Visual Arts",239
+"2114",20801,"Visual Arts",238
+"2115",20803,"Visual Arts",268
+"2116",20805,"Visual Arts",205
+"2117",20901,"Visual Arts",214
+"2118",21001,"Visual Arts",252
+"2119",21002,"Visual Arts",275
+"2120",21004,"Visual Arts",255
+"2121",21005,"Visual Arts",216
+"2122",21007,"Visual Arts",228
+"2123",21009,"Visual Arts",214
+"2124",21101,"Visual Arts",204
+"2125",21201,"Visual Arts",256
+"2126",21202,"Visual Arts",215
+"2127",21301,"Visual Arts",224
+"2128",21302,"Visual Arts",336
+"2129",21303,"Visual Arts",321
+"2130",21304,"Visual Arts",255
+"2131",21305,"Visual Arts",243
+"2132",21306,"Visual Arts",208
+"2133",21307,"Visual Arts",211
+"2134",21401,"Visual Arts",231
+"2135",21402,"Visual Arts",207
+"2136",21501,"Visual Arts",310
+"2137",21502,"Visual Arts",238
+"2138",21505,"Visual Arts",204
+"2139",30102,"Visual Arts",362
+"2140",30103,"Visual Arts",393
+"2141",30104,"Visual Arts",392
+"2142",30105,"Visual Arts",300
+"2143",30106,"Visual Arts",359
+"2144",30107,"Visual Arts",394
+"2145",30108,"Visual Arts",325
+"2146",30109,"Visual Arts",261
+"2147",30110,"Visual Arts",224
+"2148",30201,"Visual Arts",230
+"2149",30203,"Visual Arts",204
+"2150",30301,"Visual Arts",315
+"2151",30303,"Visual Arts",231
+"2152",30304,"Visual Arts",257
+"2153",30305,"Visual Arts",207
+"2154",30401,"Visual Arts",344
+"2155",30402,"Visual Arts",312
+"2156",30501,"Visual Arts",328
+"2157",30502,"Visual Arts",277
+"2158",30601,"Visual Arts",334
+"2159",30602,"Visual Arts",236
+"2160",30603,"Visual Arts",254
+"2161",30902,"Visual Arts",282
+"2162",30905,"Visual Arts",324
+"2163",31001,"Visual Arts",267
+"2164",31201,"Visual Arts",262
+"2165",31206,"Visual Arts",227
+"2166",40101,"Visual Arts",264
+"2167",40102,"Visual Arts",289
+"2168",40103,"Visual Arts",377
+"2169",40105,"Visual Arts",293
+"2170",40106,"Visual Arts",267
+"2171",40107,"Visual Arts",307
+"2172",40108,"Visual Arts",262
+"2173",40110,"Visual Arts",216
+"2174",40111,"Visual Arts",229
+"2175",40201,"Visual Arts",268
+"2176",40302,"Visual Arts",210
+"2177",40401,"Visual Arts",215
+"2178",40501,"Visual Arts",222
+"2179",40601,"Visual Arts",205
+"2180",40904,"Visual Arts",244
+"2181",50101,"Visual Arts",341
+"2182",50102,"Visual Arts",374
+"2183",50103,"Visual Arts",324
+"2184",50104,"Visual Arts",351
+"2185",50105,"Visual Arts",361
+"2186",50106,"Visual Arts",321
+"2187",50107,"Visual Arts",366
+"2188",50108,"Visual Arts",385
+"2189",50109,"Visual Arts",332
+"2190",50111,"Visual Arts",346
+"2191",50112,"Visual Arts",309
+"2192",50113,"Visual Arts",333
+"2193",50114,"Visual Arts",306
+"2194",50115,"Visual Arts",307
+"2195",50201,"Visual Arts",355
+"2196",50202,"Visual Arts",321
+"2197",50203,"Visual Arts",325
+"2198",50204,"Visual Arts",284
+"2199",50205,"Visual Arts",265
+"2200",50301,"Visual Arts",322
+"2201",50307,"Visual Arts",228
+"2202",50501,"Visual Arts",247
+"2203",50502,"Visual Arts",339
+"2204",50601,"Visual Arts",284
+"2205",50604,"Visual Arts",210
+"2206",50606,"Visual Arts",254
+"2207",50702,"Visual Arts",267
+"2208",50703,"Visual Arts",250
+"2209",50704,"Visual Arts",292
+"2210",50705,"Visual Arts",227
+"2211",50706,"Visual Arts",214
+"2212",50707,"Visual Arts",211
+"2213",50802,"Visual Arts",252
+"2214",50901,"Visual Arts",219
+"2215",51002,"Visual Arts",348
+"2216",51102,"Visual Arts",204
+"2217",51204,"Visual Arts",211
+"2218",51205,"Visual Arts",221
+"2219",51401,"Visual Arts",263
+"2220",51501,"Visual Arts",210
+"2221",51601,"Visual Arts",293
+"2222",51602,"Visual Arts",304
+"2223",51603,"Visual Arts",300
+"2224",51604,"Visual Arts",265
+"2225",51701,"Visual Arts",320
+"2226",51801,"Visual Arts",296
+"2227",51802,"Visual Arts",284
+"2228",51803,"Visual Arts",215
+"2229",60101,"Visual Arts",271
+"2230",60103,"Visual Arts",218
+"2231",60104,"Visual Arts",344
+"2232",60201,"Visual Arts",282
+"2233",60203,"Visual Arts",214
+"2234",60204,"Visual Arts",208
+"2235",60206,"Visual Arts",216
+"2236",60301,"Visual Arts",266
+"2237",60302,"Visual Arts",225
+"2238",60303,"Visual Arts",240
+"2239",60601,"Visual Arts",239
+"2240",60605,"Visual Arts",228
+"2241",60701,"Visual Arts",260
+"2242",60702,"Visual Arts",202
+"2243",60801,"Visual Arts",208
+"2244",60802,"Visual Arts",226
+"2245",61001,"Visual Arts",259
+"2246",61203,"Visual Arts",263
+"2247",61301,"Visual Arts",211
+"2248",70101,"Visual Arts",268
+"2249",70102,"Visual Arts",307
+"2250",70104,"Visual Arts",274
+"2251",70105,"Visual Arts",220
+"2252",70106,"Visual Arts",212
+"2253",70107,"Visual Arts",225
+"2254",70110,"Visual Arts",210
+"2255",70301,"Visual Arts",218
+"2256",70302,"Visual Arts",221
+"2257",70401,"Visual Arts",209
+"2258",70501,"Visual Arts",241
+"2259",70502,"Visual Arts",285
+"2260",70503,"Visual Arts",209
+"2261",70505,"Visual Arts",190
+"2262",70507,"Visual Arts",218
+"2263",70602,"Visual Arts",280
+"2264",70603,"Visual Arts",210
+"2265",70604,"Visual Arts",206
+"2266",70605,"Visual Arts",202
+"2267",70607,"Visual Arts",210
+"2268",70701,"Visual Arts",243
+"2269",70702,"Visual Arts",214
+"2270",70703,"Visual Arts",212
+"2271",70704,"Visual Arts",213
+"2272",70801,"Visual Arts",204
+"2273",70804,"Visual Arts",226
+"2274",70901,"Visual Arts",224
+"2275",71006,"Visual Arts",228
+"2276",71010,"Visual Arts",252
+"2277",71101,"Visual Arts",202
+"2278",71102,"Visual Arts",220
+"2279",71103,"Visual Arts",213
+"2280",71104,"Visual Arts",212
+"2281",71201,"Visual Arts",210
+"2282",80101,"Visual Arts",269
+"2283",80105,"Visual Arts",239
+"2284",80106,"Visual Arts",221
+"2285",80202,"Visual Arts",215
+"2286",80802,"Visual Arts",209
+"2287",81302,"Visual Arts",208
+"2288",90101,"Visual Arts",232
+"2289",90102,"Visual Arts",206
+"2290",90501,"Visual Arts",243
+"2291",90504,"Visual Arts",212
+"2292",100102,"Visual Arts",250
+"2293",100304,"Visual Arts",195
+"2294",100401,"Visual Arts",206
+"2295",9010101,"Welding & Fabrication",273
+"2296",9010201,"Welding & Fabrication",227
+"2297",9040101,"Welding & Fabrication",209
+"2298",9050101,"Welding & Fabrication",281
+"2299",9070601,"Welding & Fabrication",207
+"2300",9090401,"Welding & Fabrication",191
